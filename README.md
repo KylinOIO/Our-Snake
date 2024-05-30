@@ -1,2 +1,2 @@
-# README
-This is a interesting project made by KylinOIO and kpoier. We want to reproduct the classical game called Blockade with the graphical interface. We are beginners and keep learning new techinique. It will be interesting. Be free to leave a meesage or provide some awesome suggestions!
+##SNAKE
+The snake game with frame
