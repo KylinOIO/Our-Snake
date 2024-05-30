@@ -1,3 +1,2 @@
-##SNAKE
-The snake game with frame!
-意义是，吾亦试！
+## SNAKE
+This is a game based on snake
